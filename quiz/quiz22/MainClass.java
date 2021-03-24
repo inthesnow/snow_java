@@ -25,7 +25,6 @@ public class MainClass {
 		try {
 			br = new BufferedReader(new InputStreamReader(new FileInputStream("D:\\exFile\\주택도시보증공사_전국 평균 분양가격(2020년 2월).csv"), "EUC-KR"));
 			String str=br.readLine();
-			int i =0;
 			while((str=br.readLine())!=null) {
 				Data data = new Data();
 				String arr[] = new String[5];
