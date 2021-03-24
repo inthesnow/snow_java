@@ -1,4 +1,4 @@
-package day26.ramda.stream;
+package day26_27.ramda.stream;
 
 import java.util.List;
 import java.util.function.Consumer;
