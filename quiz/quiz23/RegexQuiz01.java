@@ -1,4 +1,4 @@
-package day27.regex.basic;
+package quiz23;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
