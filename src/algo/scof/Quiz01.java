@@ -44,4 +44,4 @@ public class Quiz01 {
 			System.out.println("-1");
 		}
 	}
-}
+}//clear
