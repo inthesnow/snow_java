@@ -33,7 +33,7 @@ public class Quiz04 {
 			}
 			System.out.println();
 		}
-
+ 
 	}
 }
 //4.0 3.0 2.1 4.3 5.0
